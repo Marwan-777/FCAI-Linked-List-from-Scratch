@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1586468439 source:d:\marwan\poject\c++\test\main.cpp
+	<iostream>
+	<assert.h>
+
